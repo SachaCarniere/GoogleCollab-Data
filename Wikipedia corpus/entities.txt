@@ -60,3 +60,4 @@ https://en.wikipedia.org/wiki/Officer_of_the_Order_of_Canada
 https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Canada
 https://en.wikipedia.org/wiki/Prix_Marie-Victorin
 https://en.wikipedia.org/wiki/Cognitive_psychology
+https://en.wikipedia.org/wiki/Yoshua_Bengio
